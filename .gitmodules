@@ -1,0 +1,3 @@
+[submodule "themes/hexo-ringo"]
+	path = themes/hexo-ringo
+	url = git@github.com:SKTT1Ryze/hexo-ringo.git
