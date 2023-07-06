@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: cccの部屋
+subtitle: 'いつも心に太陽を'
+description: '技術と生活と夢に関する記事'
 keywords:
-author: John Doe
+author: Chunchi Che
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/SKTT1Ryze/hexo-blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
