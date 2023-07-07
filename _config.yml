@@ -101,8 +101,9 @@ theme: hexo-ringo
 
 theme_config:
   menu:
-    About: /about
+    About: /2023/07/07/about
     Github: https://github.com/SKTT1Ryze
+  github: https://github.com/SKTT1Ryze
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
