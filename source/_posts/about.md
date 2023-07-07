@@ -1,6 +1,6 @@
 ---
 title: About Me
-date: {{2023-07-07}}
+date: 2023-07-07 12:00:00
 ---
 ## Who am I?
 
