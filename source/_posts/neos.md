@@ -26,7 +26,12 @@ YGOProは中国の同人プレーヤー開発し、[GPLv3 ライセンス](https
 YGOProに基づく、MyCardは豊富な機能例えば競争試合やダブルモードが提供している。その他、定期的なイベントが行われ、中国のファンたちを楽しませるよう努力をしている。
 
 ## Neosの紹介
+この前に、YGOProは[PC](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)と[IOS](https://ja.wikipedia.org/wiki/IOS)と[Android](https://ja.wikipedia.org/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)の配信が提供しているが、[Web](https://ja.wikipedia.org/wiki/World_Wide_Web)の配信が提供していない。つまり、プレイヤーはアプリをダウロードし無ければならない、ブラウザで直接体験することが出来ない。
 
+今では[Discord](https://discord.com/)とか[Telegram](https://telegram.org/)とかほとんどのソフトウェアはWeb版の配信が提供することになり、この点では「YGOProは時代に遅る」そう言う意見も出るかもしれない。
+
+この問題を解決ため、私が2022年10月にWebバージュンYGOProの開発を開始し、「遊戯王アニメ」の二代目主人公が好きで、彼のエースモンスター「Neos」に名付けられた。
+それからほぼ一年が経ち、Neosは重大な成果を上がり、正式なリリースの目標に向かって進んでいる。
 ## Neosを開発する理由
 
 ## Neosのデザイン
