@@ -52,7 +52,7 @@ YGOProのベックエンドには複数の実装が存在している、例え�
 これまで遊戯王は千枚以上のカードを発売した、どうやってこのような多数のカーデの効果を正確に処理するのか？
 YGOProの開発者は[C++](https://en.wikipedia.org/wiki/C%2B%2B)に基づく[ygopro-core](https://github.com/Fluorohydride/ygopro-core)と言う「カード脚本エンジン」を作り出し、遊戯王カードを[lua](https://www.lua.org/)脚本として処理することになった。[neovim](https://neovim.io/)の設定ファイルのように。
 
-## フロントエンド
+### フロントエンド
 Neosは[React](https://react.dev/)と[TypeScript](https://www.typescriptlang.org/)と[CSS](https://en.wikipedia.org/wiki/CSS)に基づく操作画面を構築し、[valtio](https://valtio.pmnd.rs/)を使って状態を管理する。
 全体のデザインは以下の画像に示す：
 <img src="/images/neos-arch.svg" />
