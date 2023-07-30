@@ -22,7 +22,7 @@ tag:
 以上の欠点を解決し、更に中国の遊戯王コミュニティーの発展を促進したのは、「YGOPro」のことです。
 YGOProは中国の同人プレーヤーから開発され、[GPLv3 ライセンス](https://www.gnu.org/licenses/gpl-3.0.en.html)に準拠したオープンソースゲームです。完全無料で、プレーヤーは自由に友達或いはネットで知らない相手と対戦することができる。
 
-現在[MyCard](https://mycard.moe/)という中国最大の遊戯王ファンコミュニティーがYGOProの運営や開発を主導し、グッズの販売によってサーバーの料金を維持している。
+現在[MyCard](https://mycard.moe/)という中国最大の遊戯王ファンコミュニティーがYGOProの運営や開発を主導し、グッズの販売によってサーバーの出費を支える。
 YGOProに基づき、MyCardは豊富な機能（例えば競争試合やダブルモード）を提供している。その他、定期的にイベントを行い、中国のファンたちを楽しませるよう努力をしている。
 
 ## Neosの紹介
@@ -47,10 +47,10 @@ Neosのシステムは全体的に「フロントエンド」と「バックエ�
 
 ### バックエンド
 YGOProのバックエンドには複数の実装が存在している、例えば、[233](https://ygo233.com/)と[koishi](https://srv.koishi.pro/)。
-フロントエンドには「IPアドレス」や「ポート」が分ればバックエンドと[Socket](https://en.wikipedia.org/wiki/Network_socket)また[WebSocket](https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/)に基づく接続をすることができる。
+フロントエンドに特定な「IPアドレス」と「ポート番号」をあげたらバックエンドと[Socket](https://en.wikipedia.org/wiki/Network_socket)または[WebSocket](https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/)を通じて接続することができる。
 
 これまで遊戯王は千枚以上のカードを発売した上で、いかにこんな数のカードの効果を正確に処理するのか？
-YGOProの開発者は[C++](https://en.wikipedia.org/wiki/C%2B%2B)に基づき[ygopro-core](https://github.com/Fluorohydride/ygopro-core)という「カード脚本エンジン」を作り出し、遊戯王カードを[lua](https://www.lua.org/)脚本として処理することになった。[neovim](https://neovim.io/)の設定ファイルのように。
+YGOProの開発者は[C++言語](https://en.wikipedia.org/wiki/C%2B%2B)に基づいて、[ygopro-core](https://github.com/Fluorohydride/ygopro-core)という「カード脚本エンジン」を開発したことで、遊戯王のカードを[neovim](https://neovim.io/)の設定ファイルのように[lua](https://www.lua.org/)脚本として処理できるようになった。
 
 ### フロントエンド
 Neosは[React](https://react.dev/)と[TypeScript](https://www.typescriptlang.org/)と[CSS](https://en.wikipedia.org/wiki/CSS)に基づき操作画面を構築し、[valtio](https://valtio.pmnd.rs/)を使って状態を管理する。
